@@ -2,6 +2,7 @@
 program Ask User for food and give their user nutritional information based on 
 the recipe's ingredients
 '''
+print("print")
 #declare globals
 flour = 0
 yeast = 0
